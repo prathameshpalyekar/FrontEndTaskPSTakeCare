@@ -3,3 +3,6 @@ Assumptions:
 Instead of taking from URL or from controller, I have kept JSON data in text file and retriving from it.
 To test many cases I have added many test case files.
 The data is retrived in controller using sevice.
+
+Instuction to Start:
+Please find index.html in App folder and view it in browser to get desired output
