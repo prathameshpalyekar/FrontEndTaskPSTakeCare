@@ -1,0 +1,5 @@
+The Project has been developed using Angular With TypeScript on Visual Studio.
+Assumptions:
+Instead of taking from URL or from controller, I have kept JSON data in text file and retriving from it.
+To test many cases I have added many test case files.
+The data is retrived in controller using sevice.
